@@ -1,0 +1,21 @@
+id_cliente,nombre,ciudad,segmento,antiguedad
+1,Ana García,Bilbao,Básico,4
+2,Carlos López,Valencia,Estándar,1
+3,María Martínez,Sevilla,Básico,5
+4,Juan Rodríguez,Madrid,Básico,9
+5,Laura Sánchez,Sevilla,Premium,1
+6,Pedro González,Sevilla,Básico,9
+7,Isabel Fernández,Bilbao,Estándar,8
+8,Miguel Torres,Valencia,Básico,6
+9,Carmen Díaz,Barcelona,Básico,7
+10,Antonio Ruiz,Valencia,Premium,3
+11,Elena Moreno,Valencia,Estándar,1
+12,David Jiménez,Sevilla,Básico,5
+13,Sara Álvarez,Valencia,Estándar,2
+14,José Romero,Madrid,Estándar,5
+15,Lucía Alonso,Sevilla,Estándar,8
+16,Andrés Navarro,Madrid,Estándar,9
+17,Marta Gutiérrez,Barcelona,Estándar,2
+18,Francisco Domínguez,Sevilla,Estándar,3
+19,Patricia Vázquez,Barcelona,Estándar,3
+20,Roberto Serrano,Sevilla,Estándar,1
